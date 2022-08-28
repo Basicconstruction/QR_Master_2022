@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="76b3434b-11f0-452e-9126-0d1bcfce4415" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/QR_Master_2022_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design/.$QR master.drawio.bkp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design/.$multiWrite.drawio.bkp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design/.$signalRead.drawio.bkp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design/.$signalwrite.drawio.bkp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design/QR master.drawio" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design/SignalWriteActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design/hello.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design/signalwrite.drawio" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/qrmaster/boot/Boot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/qrmaster/boot/UiInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/qrmaster/datatackle/bufferedImage/zoom/BufferedImageZoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/qrmaster/operation/datatransfer/read/MultiWriteCSVData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/qrmaster/operation/datatransfer/read/data_provider/DataProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/qrmaster/operation/datatransfer/read/text_parser/CSVLikeParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/qrmaster/operation/datatransfer/read/text_picker/EasySplit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/qrmaster/operation/datatransfer/read/text_picker/SpaceFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/qrmaster/operation/datatransfer/read/text_picker/TextCollector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/qrmaster/operation/datatransfer/read/text_picker/TextIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/qrmaster/ui/activity/Activity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/qrmaster/ui/activity/ActivityStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/qrmaster/ui/activity/HomeActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/qrmaster/ui/activity/MultiReadActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/qrmaster/ui/activity/MultiWriteActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/qrmaster/ui/activity/SignalReadActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/qrmaster/ui/activity/SignalWriteActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/qrmaster/ui/activity/Status.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/qrmaster/ui/fragment/Fragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/qrmaster/ui/fragment/batchwrite/CSVProfile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/qrmaster/ui/fragment/batchwrite/EachLineProfile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/qrmaster/ui/fragment/batchwrite/MultiWriteFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/qrmaster/ui/fragment/share/BackButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/qrmaster/ui/fragment/signalread/QRReadProperty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/qrmaster/ui/fragment/signalread/QRReadType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/qrmaster/ui/fragment/signalread/QRReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/qrmaster/ui/fragment/signalread/SignalReadFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/qrmaster/ui/fragment/signalread/SignalReadRegion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/qrmaster/ui/fragment/signlawrite/QRContentType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/qrmaster/ui/fragment/signlawrite/QRMaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/qrmaster/ui/fragment/signlawrite/QRProperty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/qrmaster/ui/fragment/signlawrite/SpecialType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/qrmaster/ui/fragment/signlawrite/basicmode/BasicModeFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/qrmaster/ui/fragment/signlawrite/contentregion/Content.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/qrmaster/ui/fragment/signlawrite/contentregion/ContentBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/qrmaster/ui/fragment/signlawrite/contentregion/ContentRegionFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/qrmaster/ui/fragment/signlawrite/share/Generator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/qrmaster/ui/fragment/signlawrite/share/Mode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/qrmaster/ui/fragment/signlawrite/share/ShareHints.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/qrmaster/ui/fragment/signlawrite/supermode/MultiColorRegionFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/qrmaster/ui/fragment/signlawrite/supermode/MultiImageRegionFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/qrmaster/ui/fragment/signlawrite/supermode/RandomColorRegionFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/qrmaster/ui/fragment/signlawrite/supermode/SignalColorRegionFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/qrmaster/ui/fragment/signlawrite/supermode/SignalImageRegionFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/qrmaster/ui/fragment/signlawrite/supermode/SpecialRegion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/qrmaster/ui/fragment/signlawrite/supermode/SuperModeFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/qrmaster/ui/fragment/signlawrite/supermode/multiColor/AddList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/qrmaster/ui/fragment/signlawrite/supermode/multiColor/AddListItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/qrmaster/ui/fragment/signlawrite/supermode/multiColor/ColorBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/qrmaster/ui/fragment/signlawrite/supermode/multiColor/RgbAddListFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/qrmaster/ui/fragment/signlawrite/supermode/randomColor/RandomColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/qrmaster/ui/fragment/signlawrite/supermode/signalColor/PreSetColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/qrmaster/ui/fragment/signlawrite/supermode/signalColor/RgbColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/qrmaster/ui/fragment/signlawrite/supermode/signalImage/FileBrowser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/qrmaster/ui/fragment/signlawrite/supermode/signalImage/Region.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/qrmaster/ui/fragment/signlawrite/supermode/signalImage/SignalImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/qrmaster/ui/sync/WorkSyncer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/qrmaster/ui/workspace/QRMasterWebPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/qrmaster/ui/workspace/QRMasterWebView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/qrmaster/ui/workspace/WorkSpace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JTextFieldTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestBufferedInputStream.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KotlinCodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DpDlAABFh21s0AVusNP3Wzr9WW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/betha/IdeaProjects/QR Master 2022/src/main/java/org/qrmaster/operation/datatransfer/read&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;项目&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.language&quot;,
+    &quot;typescript.add.unambiguous.imports.on.the.fly&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.qrmaster.ui.fragment.signlawrite.contentregion" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\betha\IdeaProjects\QR Master 2022\src\main\java\org\qrmaster\operation\datatransfer\read" />
+      <recent name="C:\Users\betha\IdeaProjects\QR Master 2022\design" />
+      <recent name="C:\Users\betha\IdeaProjects\QR Master 2022\src\main\java\org\qrmaster\ui" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.qrmaster.ui.fragment.signlawrite.supermode.randomColor" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.qrmaster.operation.datatransfer.read.text_parser" />
+      <recent name="org.qrmaster.operation.datatransfer.read.data_provider" />
+      <recent name="org.qrmaster.datatackle.bufferedImage.zoom" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.Boot">
+    <configuration name="Boot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="16" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="org.qrmaster.boot.Boot" />
+      <module name="QR Master 2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.qrmaster.boot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileBrowser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="16" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="org.qrmaster.ui.fragment.signlawrite.supermode.signalImage.FileBrowser" />
+      <module name="QR Master 2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.qrmaster.ui.fragment.signlawrite.supermode.signalImage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JTextFieldTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="16" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="JTextFieldTest" />
+      <module name="QR Master 2022" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiWriteCSVData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="16" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="org.qrmaster.operation.datatransfer.read.MultiWriteCSVData" />
+      <module name="QR Master 2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.qrmaster.operation.datatransfer.read.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestBufferedInputStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="16" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="TestBufferedInputStream" />
+      <module name="QR Master 2022" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="应用程序.TestBufferedInputStream" />
+      <item itemvalue="应用程序.MultiWriteCSVData" />
+      <item itemvalue="应用程序.FileBrowser" />
+      <item itemvalue="应用程序.Boot" />
+      <item itemvalue="应用程序.JTextFieldTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.Boot" />
+        <item itemvalue="应用程序.TestBufferedInputStream" />
+        <item itemvalue="应用程序.MultiWriteCSVData" />
+        <item itemvalue="应用程序.FileBrowser" />
+        <item itemvalue="应用程序.JTextFieldTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="76b3434b-11f0-452e-9126-0d1bcfce4415" name="变更" comment="" />
+      <created>1661387283047</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661387283047</updated>
+      <workItem from="1661387285071" duration="9156000" />
+      <workItem from="1661410435630" duration="12504000" />
+      <workItem from="1661422970507" duration="126000" />
+      <workItem from="1661473645221" duration="12358000" />
+      <workItem from="1661486037667" duration="1733000" />
+      <workItem from="1661502379124" duration="8413000" />
+      <workItem from="1661514898212" duration="4983000" />
+      <workItem from="1661560124379" duration="9265000" />
+      <workItem from="1661582318648" duration="261000" />
+      <workItem from="1661582629623" duration="4647000" />
+      <workItem from="1661645538284" duration="13823000" />
+      <workItem from="1661664173331" duration="1246000" />
+      <workItem from="1661665734201" duration="1572000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
